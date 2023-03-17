@@ -8,6 +8,7 @@
 There's also a list of the courses that I read from time to time. Most of the are slowly being finished when someone requests help or when I'm in the mood:
 
 * [Java Professionals Course](https://github.com/qala-io/java-course) - can teach it, fully documented
+* [SQL Course](https://github.com/qala-io/sql-course) - can teach it, 100% documented
 * [Java Beginner Course](https://github.com/qala-io/java-beginner-course) - can teach it, 50% documented
 * [Databases Course](https://github.com/qala-io/db-course) - architecture, performance, concurrency, etc. Can teach most of it, 10% documented.
 * [Write your own Git](https://github.com/qala-io/write-your-own-git) - can teach it, 10% documented
