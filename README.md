@@ -5,7 +5,7 @@
 
 ### Courses
 
-There's also a list of the courses that I read from time to time. Most of the are slowly being finished when someone requests help or when I'm in the mood:
+There's also a list of the courses that I read from time to time. Most of them are slowly being finished when someone requests help or when I'm in the mood:
 
 * [Java Professionals Course](https://github.com/qala-io/java-course) - can teach it, fully documented
 * [SQL Course](https://github.com/qala-io/sql-course) - can teach it, 100% documented
