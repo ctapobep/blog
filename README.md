@@ -24,4 +24,3 @@ If you want me to read any of the above courses, please [reach out](https://gith
 ### Other links
 
 * [My StackExchange account](https://stackexchange.com/users/476019/stanislav-bashkyrtsev?tab=accounts)
-* In case you/your team needs mentoring: [my Solvery account](https://solvery.io/en/mentor/stanislav_bashkyrtsev)
