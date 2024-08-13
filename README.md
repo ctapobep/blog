@@ -15,8 +15,6 @@ There's also a list of the courses that I read from time to time. Most of them a
 * [Cryptography overview](https://github.com/qala-io/cryptography-overview) - can teach the basics, 20% documented
 * [Linux Networking](https://github.com/qala-io/networking-course) - can't teach it yet
 
-If you want me to read any of the above courses, please [reach out](https://github.com/qala-io/java-course/issues/13).
-
 ### My open source projects
 
 * [Datagen](https://github.com/qala-io/datagen) - a library for randomized testing in Java
